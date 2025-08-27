@@ -1,0 +1,10 @@
+What did I learn?
+
+Fourth day
+I'am using input and variables to get user information and store that.
+Also I've learned how to add color in print structure like,
+Syntax: Escape codes begin with \033[ followed by a code and ending with m
+
+print('\033[31mDalton\033[0m Soares')
+Where \033 is the escape code and
+31m and 0m is the color as 31=red, 0=default.
